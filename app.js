@@ -33,6 +33,7 @@ function wmean(user){
         +(user.allGrades[2].grades.length*user.allGrades[2].weight));
 
     console.log(user.name+" "+user.surname+" "+wynik);
+    console.log("XD");
 }
 
 wmean(user);
